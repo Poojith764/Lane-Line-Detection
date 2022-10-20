@@ -1,5 +1,5 @@
 
-The Project
+Lane Line Detection
 ---
 
 The steps of this project are the following:
